@@ -619,6 +619,15 @@ span.answer .white{
   background-color:#2d3439;
 }
 
+#picture1{
+  background-image:url("../img/projects/Picture1.png");
+  /*background-size: auto;*/
+  /*height: inherit;
+  width: inherit;*/
+
+}
+
+
 .projects .block .wrapper a{
   float:left;position:relative;
   width:100%;
