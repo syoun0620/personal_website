@@ -613,10 +613,31 @@ span.answer .white{
   /*border: 1px solid black;*/
 }
 
+.projects .block .wrapper #hangman{
+  background-image:url("../img/projects/hangman.jpg");
+  background-size: contain;
+  background-color: white;
+  /*border: 1px solid black;*/
+}
+
+.projects .block .wrapper #JaneStreetETC{
+  background-image:url("../img/projects/janestreet.jpeg");
+  background-size: contain;
+  background-color: white;
+  /*border: 1px solid black;*/
+}
+
 .projects .block .wrapper #cbt{
   background-image:url("../img/projects/computer4.jpeg");
   background-size: cover;
   background-color:#2d3439;
+}
+
+.projects .block .wrapper #upenn{
+  background-image:url("../img/projects/upenn.png");
+  background-size: contain;
+  background-color: white;
+  /*border: 1px solid black;*/
 }
 
 #picture1{
