@@ -601,6 +601,12 @@ span.answer .white{
   background-color:#e4eef2;
 }*/
 
+.projects .block .wrapper #slackBot{
+  background-image:url("../img/projects/slackbot.jpg");
+  background-size: contain;
+  background-color: white;
+}
+
 .projects .block .wrapper #findYourBestSpot{
   background-image:url("../img/projects/findYourBestSpot.png");
   background-size: contain;
