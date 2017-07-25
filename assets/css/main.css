@@ -228,7 +228,10 @@ code {
     word-break:break-word
   }
 }
-
+img.slackanimated-gif{
+  width: 900px;
+  height: auto;
+}
 #tab { display:inline-block;
        margin-left: 40px; }
 
