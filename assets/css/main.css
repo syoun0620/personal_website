@@ -229,6 +229,9 @@ code {
   }
 }
 
+#tab { display:inline-block;
+       margin-left: 40px; }
+
 pre {
   display:block;
   margin:0 0 1rem;
