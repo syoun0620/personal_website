@@ -55,10 +55,6 @@ sub {
   bottom:-0.25em;
 }
 
-img {
-  border:0;
-}
-
 svg:not(:root) {
   overflow:hidden;
 }
@@ -148,12 +144,6 @@ h1 a {
 }
 .post-body .anchorjs-link {
   border-bottom:0
-}
-
-img {
-  display:block;
-  margin:0 0 1rem;
-  border-radius:.25rem
 }
 
 hr {
@@ -348,6 +338,9 @@ h1 {
 .mybio {
   float: left;
   margin-right: 2em
+  display:block;
+  margin:0 0 1rem;
+  border-radius:.25rem
 }
 
 @media (min-width: 34em) {
@@ -652,6 +645,11 @@ span.answer .white{
   /*background-size: auto;*/
   /*height: inherit;
   width: inherit;*/
+}
+
+#spot {
+    height: 600px;
+    width: 300px
 
 }
 
