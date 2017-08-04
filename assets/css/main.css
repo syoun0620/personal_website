@@ -605,6 +605,12 @@ span.answer .white{
   background-color: white;
 }
 
+.projects .block .wrapper #giphy{
+  background-image:url("../img/projects/giphy1.gif");
+  background-size: contain;
+  background-color: white;
+}
+
 .projects .block .wrapper #findYourBestSpot{
   background-image:url("../img/projects/spot_logo.png");
   background-size: contain;
