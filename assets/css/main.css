@@ -229,7 +229,7 @@ code {
   }
 }
 img.slackanimated-gif{
-  width: 900px;
+  width: 100%;
   height: auto;
 }
 #tab { display:inline-block;
