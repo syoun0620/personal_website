@@ -343,8 +343,8 @@ h1 {
 
 .mybio {
   float: right;
-  margin-right:10px
   display:block;
+  margin-left: 5px;
   border-radius:.25rem
 }
 
